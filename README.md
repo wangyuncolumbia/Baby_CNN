@@ -1,6 +1,6 @@
 # Baby_CNN
 
-# Version 0  EchoBaby 2D Unet Experiment
+### Version 0  EchoBaby 2D Unet Experiment
 
 (1)  Training data 
 
